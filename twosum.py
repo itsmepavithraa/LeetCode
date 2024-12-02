@@ -33,3 +33,11 @@ nums = [2, 7, 11, 15]
 target = 9 # 2+7
 result = two_sum(nums, target)
 print(result)  # Output: [0, 1]
+
+
+'''
+Time Complexity: 
+O(n)
+Space Complexity: 
+O(n)
+'''
